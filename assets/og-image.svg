@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Blenderizm 3D freelance portfolio</title>
+  <desc id="desc">Dark futuristic graphic with orange accents for Blenderizm freelance 3D artist services.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060606"/>
+      <stop offset="100%" stop-color="#161616"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffb347"/>
+      <stop offset="100%" stop-color="#ff6a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="56" y="56" width="1088" height="518" rx="32" fill="#0b0b0b" stroke="#ff6a00" stroke-opacity="0.3"/>
+  <circle cx="910" cy="220" r="180" fill="none" stroke="url(#accent)" stroke-opacity="0.25" stroke-width="26"/>
+  <circle cx="910" cy="220" r="118" fill="none" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="12"/>
+  <path d="M240 420c42-124 120-184 226-184 88 0 155 44 210 118" fill="none" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M392 312h94" stroke="#f0ece4" stroke-width="10" stroke-linecap="round"/>
+  <path d="M446 248l48 64-48 64" stroke="#f0ece4" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="98" y="230" fill="#f0ece4" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="4">BLENDERIZM</text>
+  <text x="98" y="292" fill="#ff6a00" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="6">FREELANCE 3D ARTIST</text>
+  <text x="98" y="360" fill="#ded8d0" font-family="Arial, Helvetica, sans-serif" font-size="28">3D modeling • hard surface • product visualization • STL / 3D printing</text>
+</svg>

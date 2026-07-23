@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /assets/private/
+Disallow: /tmp/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+Sitemap: https://topazonanton.github.io/3DFreelancer-Blender/sitemap.xml
